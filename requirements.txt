@@ -1,0 +1,7 @@
+All modules imported at the top of your code
+are built directly into Python:
+json: Handles the reading and writing of your JSON data file.
+re: Processes regular expressions for phone and email validation.
+datetime: Tracks contact creation and update timestamps.
+csv: Manages the export data structure to CSV format.
+os: Checks for local file path existence before reading data.
